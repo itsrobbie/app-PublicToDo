@@ -1,7 +1,7 @@
 from flask import Flask
-from flask.ext.sqlalchemy import SQLAlchemy
-from flask.ext.restless import APIManager
-from flask.ext.cors import CORS
+#from flask.ext.sqlalchemy import SQLAlchemy
+#from flask.ext.restless import APIManager
+#from flask.ext.cors import CORS
 
 #enableing cors
 #def add_cors_headers(response):
