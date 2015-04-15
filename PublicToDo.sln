@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PublicToDo.App.Client", "PublicToDo.App.Client\PublicToDo.App.Client.pyproj", "{C5191A01-C243-4A71-88AC-BCE70DE31704}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PublicToDo.App.Server", "PublicToDo.App.Server\PublicToDo.App.Server.pyproj", "{1E2583E1-FF5F-4497-B374-3DE164EB91B7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Api", "Api\Api.pyproj", "{4F7CD182-A4F3-4A03-AFE0-55E950CACD2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5191A01-C243-4A71-88AC-BCE70DE31704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5191A01-C243-4A71-88AC-BCE70DE31704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2583E1-FF5F-4497-B374-3DE164EB91B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2583E1-FF5F-4497-B374-3DE164EB91B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7CD182-A4F3-4A03-AFE0-55E950CACD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7CD182-A4F3-4A03-AFE0-55E950CACD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7CD182-A4F3-4A03-AFE0-55E950CACD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7CD182-A4F3-4A03-AFE0-55E950CACD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

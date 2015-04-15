@@ -1,0 +1,26 @@
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\attach_server.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\visualstudio_py_debugger.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\visualstudio_py_repl.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\visualstudio_py_util.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\__init__.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\__main__.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\bin\AzureSetup.cfg
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\bin\wfastcgi.py
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\web.config
+c:\users\robertbu\documents\visual studio 2013\Projects\PublicToDo\Api\obj\Debug\web.debug.config
+C:\GitDev\App\app-PublicToDo\Api\bin\Microsoft.PythonTools.WebRole.dll
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\attach_server.py
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\visualstudio_py_debugger.py
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\visualstudio_py_repl.py
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\visualstudio_py_util.py
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\__init__.py
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\__main__.py
+C:\GitDev\App\app-PublicToDo\Api\bin\AzureSetup.cfg
+C:\GitDev\App\app-PublicToDo\Api\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\GitDev\App\app-PublicToDo\Api\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\GitDev\App\app-PublicToDo\Api\bin\wfastcgi.py
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\web.config
+C:\GitDev\App\app-PublicToDo\Api\obj\Debug\web.debug.config
