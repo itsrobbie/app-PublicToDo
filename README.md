@@ -4,7 +4,7 @@ Hey guys, this is my first python project coming from a .NET background.
 
 The plan is, 
   a) create a simple client-server application to understand the basic sockets in python
-    -This is done, see PublicToDo.App.Server and .Client
+    (This is done, see PublicToDo.App.Server and .Client)
   b) create a public to do list, where anyone in the world can add to it.
   
 How will i go about creating the public to do list?
